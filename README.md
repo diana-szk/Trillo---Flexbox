@@ -4,7 +4,7 @@ Building a travel agency website using Flexbox and SASS
 
 ## [View project demo](http://trillo-agency.c1.biz/)
 
-### You need to use ```npm run start``` in order to see all functionalities of this website.
+### You need to use ```npm start``` in order to see all functionalities of this website.
 
 ## Technologies used:
 
